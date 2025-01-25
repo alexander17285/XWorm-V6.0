@@ -3,7 +3,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/28d5de72-cfe1-45cc-adc8-daf55db6481d)
-
+## Password : XWorm
 ## ⚠️ 〢 DISCLAIMER
 This project was made for educational purposes and personal use. You hold responsibility, liability and accountability for any consequences caused by your actions.
 
